@@ -18,7 +18,7 @@ Project ทำขึ้นเพื่อเเนะนำหนัง สำ�
 ```
 # Presentation
 ```
-  ![สไลด์](https://www.canva.com/design/DAF_e76GPz0/NOlki7W4avngo11OI1eCNQ/edit?utm_content=DAF_e76GPz0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+  [สไลด์](https://www.canva.com/design/DAF_e76GPz0/NOlki7W4avngo11OI1eCNQ/edit?utm_content=DAF_e76GPz0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 ```
 # Video
 ```
