@@ -1,7 +1,7 @@
-## OOP-Project
+# OOP-Project
 # Application title
 
-# auther
+# Auther
 ```
   id : 66114540379
   name : Bancha Singkham
