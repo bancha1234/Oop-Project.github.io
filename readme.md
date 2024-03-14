@@ -1,21 +1,21 @@
 ## OOP-Project
-# application title
+# Application title
 
-# auther:
+# auther
 ```
   id : 66114540379
   name : Bancha Singkham
 ```
-# application description:
-# technology
+# Application description:
+# Aechnology
 ```
   [streamlit]
 ```
-# presentation
+# Presentation
 ```
   [slide/canva/etc..] link [public/ubu]
 ```
-# video
+# Video
 ```
   link [public/ubu] xoxoxo
 ```
