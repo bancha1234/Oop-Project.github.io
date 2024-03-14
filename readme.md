@@ -6,7 +6,7 @@
   id : 66114540379
   name : Bancha Singkham
 ```
-# Application description:
+# Application description
 # Aechnology
 ```
   [streamlit]
